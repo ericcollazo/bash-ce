@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Load variables file
-path = "./variables.txt"
+path = "variables.txt"
 
 # Digitalocean API token
 apiToken = $(cat "$path")
